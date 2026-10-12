@@ -5,9 +5,11 @@ description: "Robot arm that uses 3 stepper motors for the base joints and 3 BLD
 created_at: "2026-10-10"
 ---
 
-# October 10: Figured out what to build
+# October 11: Wrist Complete
 
-I wanted to build a robot arm, but a basic arm is pretty boring. I was researching different mechanisms and I found this https://www.youtube.com/watch?v=cjIVU-O5PHo
-Its a really unique mechanism for having all the motors in the base. This keeps the wrist light and more agile.
+I'm working from the end effector down, so starting with the wrist. I finished the differential mechanism on the wrist and the pulleys for channeling the string into the differential mechanism
+Tomorrow I'm going to try to finish at least the first arm link. I'll also print out the initial versions of the wrist mechanism.
 
-**Total time spent: 0 hours**
+<img width="1160" height="760" alt="image" src="https://github.com/user-attachments/assets/a5a5beb4-c2a2-4ef6-a270-5db7dc4dc6f0" />
+
+**Total time spent: 2 hours 40 minutes**
