@@ -25,3 +25,14 @@ so I just designed the first link to be on the outside instead.
 
 
 **Total time spent: 1 hour 59 minutes**
+
+# October 13: First and Second links completely CADed
+
+Figured out how the rigging works for the wrist actuation. For the rolling contact joint that I'm using for the elbow, I'm having a bit of trouble mating it correctly in the CAD so its a little bit off, but its okay. I'm going to start printing the parts soon, but I still need to design a spot for the encoders. Also I still need to CAD the base of the entire thing. The base will house all of the stepper motors for the elbow and base joints. Also I did the calculations for the elbow and base torques and I will need approximately 1.7Nm for the base and 0.9Nm for the elbow. This is a high end estimate since the CAD I'm assuming is lighter than the real thing (also I may have gotten the math wrong who knows, so better safe than sorry) Since the stepper motors I'm using have 42Ncm (0.42Nm) of torque I'm going to have a 4:1 ratio on the base and a 2:1 ratio on the elbow joint.
+
+<img width="1216" height="804" alt="image" src="https://github.com/user-attachments/assets/c1d3ac3e-1216-40a9-b753-ec6528b5ea6d" />
+<img width="1920" height="1574" alt="image" src="https://github.com/user-attachments/assets/0670b0aa-80cf-454f-9db4-30263ef488f2" />
+
+
+
+**Total time spent: 3 hours 1 minute**
