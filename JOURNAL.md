@@ -33,6 +33,9 @@ Figured out how the rigging works for the wrist actuation. For the rolling conta
 <img width="1216" height="804" alt="image" src="https://github.com/user-attachments/assets/c1d3ac3e-1216-40a9-b753-ec6528b5ea6d" />
 <img width="1920" height="1574" alt="image" src="https://github.com/user-attachments/assets/0670b0aa-80cf-454f-9db4-30263ef488f2" />
 
+I also added the channels for the capstan mechanism for the base joint.
+
+<img width="1312" height="942" alt="image" src="https://github.com/user-attachments/assets/23a7c9c1-8137-46e3-93a0-063a01d26e0f" />
 
 
-**Total time spent: 3 hours 1 minute**
+**Total time spent: 3 hours 43 minutes**
