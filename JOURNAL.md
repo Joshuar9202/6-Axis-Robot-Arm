@@ -39,3 +39,13 @@ I also added the channels for the capstan mechanism for the base joint.
 
 
 **Total time spent: 3 hours 43 minutes**
+
+
+# October 16: Built first and second link
+
+I forgot to devlog for the past 2 days, but I still worked on the project, I finished the entire CAD and tested to make sure the encoder geometry worked because I have had issues with the magnet not sensing in the past. It works great though. I printed out all the parts and am about halfway done with assembly. I think its possible to get this wrapped up in the next 2 days assuming I have little to know issues. The two sliders on the first link are binding a bit though so I might need to redesign that. I also have to do the rigging and I am not looking forward to that.
+
+<img width="1920" height="1440" alt="image" src="https://github.com/user-attachments/assets/12fd5f37-781a-4d36-b8f3-92c417e051b5" />
+<img width="1842" height="870" alt="image" src="https://github.com/user-attachments/assets/0e3afcb9-1e0c-4843-87c6-eefb5f20cf74" />
+
+**Total time spent: 7 hours 11 minutes**
