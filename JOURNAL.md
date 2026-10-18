@@ -49,3 +49,12 @@ I forgot to devlog for the past 2 days, but I still worked on the project, I fin
 <img width="1842" height="870" alt="image" src="https://github.com/user-attachments/assets/0e3afcb9-1e0c-4843-87c6-eefb5f20cf74" />
 
 **Total time spent: 7 hours 11 minutes**
+
+
+# October 17: Rigging
+
+This thing is genuine ragebait. I spend the past hour trying to flip a pulley around and then two of the wrist degrees of freedom don't work because I didn't spool in enough string. I know what I need to do tomorrow though, I basically will have to redo the entire rigging. Its going to be a long day.
+
+<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/797b353b-3b3a-46b0-93a2-4eacf36271c0" />
+
+**Total time spent: 5 hours 12 minutes**
