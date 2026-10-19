@@ -58,3 +58,15 @@ This thing is genuine ragebait. I spend the past hour trying to flip a pulley ar
 <img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/797b353b-3b3a-46b0-93a2-4eacf36271c0" />
 
 **Total time spent: 5 hours 12 minutes**
+
+# October 18: Hardware Done
+
+I have become too familiar with the smell of superglue. I had to redo basically all of the rigging I did yesterday, making sure this time to add string onto the spools. That took way too long already but that was only half the battle. Then I had to attach it to the base, a process that included 4 more strings to rig. That process was a lot smoother though, and everything actually looks really good.
+The bevel gears on the wrist and the rolling contact joint rigging sometimes slip, so I might have to put a dab of superglue on those. The rigging on the turret slips to the point of the turret not working, so I'm going to have to redo that entire rigging, but its only one string so it shouldn't be too bad. 
+I tested the stepper motors and the wires that came with them for some reason have the phases out of order which is weird, maybe it was meant for something else non Arduino related. I'm going to have to cut those and solder them though. I tested with some other wires that I knew did work. However, my calculations used the stall torque of the motors which was really dumb on my end I don't know how I missed that but oh well. Surprisingly, the joints still mostly work, its only that it stalls out when its fully extended and the base tries to go up, but that's easily solvable in code, and I'm almost never going to have to fully extend anyway. 
+
+<img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/26e2bdc8-e927-43ab-8e9b-47c3af25376b" />
+
+https://github.com/user-attachments/assets/15947638-a03b-4767-99b3-7de28c2206a6
+
+**Total time spent: 5 hours 30 minutes**
