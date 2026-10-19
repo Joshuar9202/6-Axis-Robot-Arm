@@ -69,4 +69,9 @@ I tested the stepper motors and the wires that came with them for some reason ha
 
 https://github.com/user-attachments/assets/15947638-a03b-4767-99b3-7de28c2206a6
 
+
+https://github.com/user-attachments/assets/0a5a708e-31b8-432d-a171-21a7236f6422
+
+
+
 **Total time spent: 5 hours 30 minutes**
