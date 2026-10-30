@@ -83,6 +83,8 @@ I added acceleration and half stepping to the motors to make everything look a l
 
 
 https://github.com/user-attachments/assets/f1d51fd2-da44-4a17-a536-5e1a9c431e59
+
+
 <img width="2560" height="1326" alt="image" src="https://github.com/user-attachments/assets/89f24a50-7a65-47c5-9c8c-bba6645584bf" />
 
 
