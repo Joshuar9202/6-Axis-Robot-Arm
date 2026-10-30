@@ -75,3 +75,16 @@ https://github.com/user-attachments/assets/0a5a708e-31b8-432d-a171-21a7236f6422
 
 
 **Total time spent: 5 hours 30 minutes**
+
+# October 29: Stepper Motors Working Well
+
+I added acceleration and half stepping to the motors to make everything look a little bit smoother. It sounds really nice now though. I don't have as much time because of school (the past days were all during fall break), but hopefully I'll still be able to finish this in the next 2 weeks or so. Only thing that's left is FOC though.
+
+
+
+https://github.com/user-attachments/assets/f1d51fd2-da44-4a17-a536-5e1a9c431e59
+
+
+
+**Total time spent: 2 hours 8 minutes**
+
