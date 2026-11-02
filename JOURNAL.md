@@ -91,3 +91,10 @@ https://github.com/user-attachments/assets/f1d51fd2-da44-4a17-a536-5e1a9c431e59
 
 **Total time spent: 2 hours 8 minutes**
 
+# November 1: Finished wiring completely
+
+I finished the simpleFOC wiring which took a lot longer than I thought because of the number of wires needed. I really need to make a simpleFOC shield for multiple simpleFOC minis in the future. I also designed a mount for the simpleFOCs, wagos, and the stm32 nucleo. I got to testing the sensors and confirmed they work but didn't test the motors themselves.
+
+<img width="2000" height="1500" alt="image" src="https://github.com/user-attachments/assets/55796918-1560-48a3-aa4c-7b7364479346" />
+
+**Total time spent: 4 hours 42 minutes**
