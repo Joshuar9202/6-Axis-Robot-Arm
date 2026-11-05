@@ -98,3 +98,12 @@ I finished the simpleFOC wiring which took a lot longer than I thought because o
 <img width="2000" height="1500" alt="image" src="https://github.com/user-attachments/assets/55796918-1560-48a3-aa4c-7b7364479346" />
 
 **Total time spent: 4 hours 42 minutes**
+
+# November 4: More FOC
+
+Got one of the motors kinda sorta working. It works with the simpleFOC example code at least so thats something but I still need to implement it correctly in my own code. But at least it verifies the hardware is working. The other two motors, im not sure whats wrong with them. Also while testing the one motor that does work, I think I did too many rotations or something, so the string came loose. I got it back on tight but now the top motor acts kinda weird, when rotating by hand it has different resistances throughout the rotation. Also somehow the base joint rigging snapped.
+
+<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/1d911e22-94b1-416b-a30a-ea45bfb50fa2" />
+
+**Total time spent: 2 hours 45 minutes**
+
